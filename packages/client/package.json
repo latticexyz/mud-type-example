@@ -19,6 +19,7 @@
     "@latticexyz/store-sync": "2.0.11",
     "@latticexyz/utils": "2.0.11",
     "@latticexyz/world": "2.0.11",
+    "@typescript/analyze-trace": "^0.10.1",
     "contracts": "workspace:*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

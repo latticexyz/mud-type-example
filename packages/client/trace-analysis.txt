@@ -1,0 +1,29 @@
+Hot Spots
+└─ Check file [35m/users/kooshaba/workspace/mud-slow-types/node_modules/[36m.pnpm[39m[35m/@latticexyz+common@2.0.11_@aws-sdk+client-kms@3.577.0_asn1.js@5.4.1_typescript@5.4.2_zod@3.23.8/node_modules/[36m@latticexyz/common[39m[35m/src/getcontract.ts[39m (1927ms)
+   └─ Compare types 87577 and 87012 (1419ms)
+      └─ Compare types 87579 and 87581 (1419ms)
+         └─ Compare types 87009 and 87574 (1371ms)
+            └─ Compare types 87554 and 86956 (1371ms)
+               └─ Compare types 87558 and 86968 (1371ms)
+                  └─ Compare types 87558 and 86964 (1370ms)
+                     └─ Compare types 87557 and 86964 (1370ms)
+                        └─ Compare types 87585 and 87588 (1370ms)
+                           └─ Compare types 90419 and 90417 (1317ms)
+                              └─ Compare types 90502 and 90483 (1315ms)
+                                 └─ Determine variance of type 90429 (1315ms)
+                                    └─ Compare types 90525 and 90523 (1105ms)
+                                       └─ Compare types 90503 and 90523 (1104ms)
+                                          └─ Compare types 90503 and 90507 (1104ms)
+                                             └─ Determine variance of type 90510 (1012ms)
+                                                └─ {"id":90510,"kind":"GenericTypeAlias","name":"SimulateContractReturnType","aliasTypeArguments":[90511,90512,90513,90514,90515,90516,90517,90518,90519],"location":{"path":"[35m/users/kooshaba/workspace/mud-slow-types/node_modules/[36m.pnpm[39m[35m/viem@2.9.20_typescript@5.4.2_zod@3.23.8/node_modules/[36mviem[39m[35m/_types/actions/public/simulatecontract.d.ts[39m","line":22,"char":1}}
+                                                   ├─ {"id":90511,"kind":"TypeParameter","name":"abi","location":{"path":"[35m/users/kooshaba/workspace/mud-slow-types/node_modules/[36m.pnpm[39m[35m/viem@2.9.20_typescript@5.4.2_zod@3.23.8/node_modules/[36mviem[39m[35m/_types/actions/public/simulatecontract.d.ts[39m","line":22,"char":40}}
+                                                   ├─ {"id":90512,"kind":"TypeParameter","name":"functionName","location":{"path":"[35m/users/kooshaba/workspace/mud-slow-types/node_modules/[36m.pnpm[39m[35m/viem@2.9.20_typescript@5.4.2_zod@3.23.8/node_modules/[36mviem[39m[35m/_types/actions/public/simulatecontract.d.ts[39m","line":22,"char":84}}
+                                                   ├─ {"id":90513,"kind":"TypeParameter","name":"args","location":{"path":"[35m/users/kooshaba/workspace/mud-slow-types/node_modules/[36m.pnpm[39m[35m/viem@2.9.20_typescript@5.4.2_zod@3.23.8/node_modules/[36mviem[39m[35m/_types/actions/public/simulatecontract.d.ts[39m","line":22,"char":212}}
+                                                   ├─ {"id":90514,"kind":"TypeParameter","name":"chain","location":{"path":"[35m/users/kooshaba/workspace/mud-slow-types/node_modules/[36m.pnpm[39m[35m/viem@2.9.20_typescript@5.4.2_zod@3.23.8/node_modules/[36mviem[39m[35m/_types/actions/public/simulatecontract.d.ts[39m","line":22,"char":360}}
+                                                   ├─ {"id":90515,"kind":"TypeParameter","name":"account","location":{"path":"[35m/users/kooshaba/workspace/mud-slow-types/node_modules/[36m.pnpm[39m[35m/viem@2.9.20_typescript@5.4.2_zod@3.23.8/node_modules/[36mviem[39m[35m/_types/actions/public/simulatecontract.d.ts[39m","line":22,"char":413}}
+                                                   ├─ {"id":90516,"kind":"TypeParameter","name":"chainOverride","location":{"path":"[35m/users/kooshaba/workspace/mud-slow-types/node_modules/[36m.pnpm[39m[35m/viem@2.9.20_typescript@5.4.2_zod@3.23.8/node_modules/[36mviem[39m[35m/_types/actions/public/simulatecontract.d.ts[39m","line":22,"char":472}}
+                                                   ├─ {"id":90517,"kind":"TypeParameter","name":"accountOverride","location":{"path":"[35m/users/kooshaba/workspace/mud-slow-types/node_modules/[36m.pnpm[39m[35m/viem@2.9.20_typescript@5.4.2_zod@3.23.8/node_modules/[36mviem[39m[35m/_types/actions/public/simulatecontract.d.ts[39m","line":22,"char":533}}
+                                                   ├─ {"id":90518,"kind":"TypeParameter","name":"minimizedAbi","location":{"path":"[35m/users/kooshaba/workspace/mud-slow-types/node_modules/[36m.pnpm[39m[35m/viem@2.9.20_typescript@5.4.2_zod@3.23.8/node_modules/[36mviem[39m[35m/_types/actions/public/simulatecontract.d.ts[39m","line":22,"char":620}}
+                                                   └─ {"id":90519,"kind":"TypeParameter","name":"resolvedAccount","location":{"path":"[35m/users/kooshaba/workspace/mud-slow-types/node_modules/[36m.pnpm[39m[35m/viem@2.9.20_typescript@5.4.2_zod@3.23.8/node_modules/[36mviem[39m[35m/_types/actions/public/simulatecontract.d.ts[39m","line":24,"char":4}}
+
+No duplicate packages found
